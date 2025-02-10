@@ -1,0 +1,1 @@
+const myFirstNodeVariable = `I can do this`
